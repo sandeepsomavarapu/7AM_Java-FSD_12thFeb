@@ -1,0 +1,97 @@
+	Java Fullstack
+	
+	
+	
+	java developer
+	database developer
+	frontend develoeper
+	
+	
+	
+	corejava			case study-1
+	database(mysql)
+	JDBC
+	JPA					case study-2
+	SPring 
+	Springboot			case study-3
+	
+	html
+	css
+	js
+	bs
+	ts
+	angular				case study-4
+	
+	
+	
+	JAVA:=
+	======
+	
+Language:
+=========
+		communication with human
+		
+Programming Lanuage:
+====================  o's 1's
+
+		communication with machine
+
+
+	hardware-->software-->programs
+
+
+c,c++,java,python,.net,.....
+
+			POP		     				OOP
+	C,B,BCPL,COBOL,PHOTON,....		c++,java,python,.net,......
+
+			oops    oopl
+
+why ?			1)performance		inheritance,polymorphisam
+				2)security			abstraction ,encapsulation
+
+
+	
+WHY JAVA? 1996   python 1993
+
+		
+	
+	version history-->james gosling-->OAK-->java->coffee seed tree name -->java
+	
+			sun micro system-->oracle corporation
+	
+	
+	15
+	
+	JDK -->1 1996
+	
+	
+		1)platform independent   java app-->WORA
+		2)garbage collection    garbage collector
+	
+	
+	
+	
+	.net->p dependent
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
