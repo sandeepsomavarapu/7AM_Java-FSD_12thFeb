@@ -54,7 +54,7 @@ why ?			1)performance		inheritance,polymorphisam
 	
 WHY JAVA? 1996   python 1993
 
-		
+		JDK 1.0
 	
 	version history-->james gosling-->OAK-->java->coffee seed tree name -->java
 	
@@ -63,7 +63,7 @@ WHY JAVA? 1996   python 1993
 	
 	15
 	
-	JDK -->1 1996
+	JDK -->1 1996  python--1993--guido van russam 3.x
 	
 	
 		1)platform independent   java app-->WORA
@@ -72,18 +72,35 @@ WHY JAVA? 1996   python 1993
 	
 	
 	
-	.net->p dependent
+	.net->microsoft -->p dependent
 	
 	
+	java -->oracle
 	
 	
+	welcome to java program
 	
 	
+	installation
+	
+	53 keywords-->alphabets-->lowercase
 	
 	
+	56
 	
+	26
 	
+	Welcome.java
 	
+	class Welcome
+	{
+	
+	public static void main(String args[])
+	{
+	System.out.println("welcome to java");
+	}
+	
+	}
 	
 	
 	
