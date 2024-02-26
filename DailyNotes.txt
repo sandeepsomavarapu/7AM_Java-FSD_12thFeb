@@ -156,6 +156,44 @@ Variables:-
 		c    support ASCII	english	a-97 A-65
 		
 		
+	package -->folder-->
+
+	predefined   -->
+	user defined -->
+	
+		packages 
+		
+		package com.demo.basics;
+
+NOTE:JAVA.LANG PACKAGE IS BY DEFAULT PACKAGE AVAIALBALE FOR JAVA FILE.
+
+	import 
+		
+		
+		IDE TOOL-->eclipse,myeclipse,netbeans,vscode,intellji....
+		
+		
+		
+		JSE 				JEE              JME
+		
+		
+		
+		1)desktop/standalone applications  :   JSE:corejava,awt,swings,applets
+				Ex:notepad++,eclipse,media player,antivirus 
+		2)web applications			server JEE:servlets,jsp,spring mvc... url
+		3)distrubuted applications   webservices
+		4)mobile applications      JME:android
+		
+	Eclipse:	
+		
+		flow control statements
+				
+					if
+					else
+					switch
+					while
+					dowhile
+					for 
 		
 		
 		
